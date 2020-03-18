@@ -1,0 +1,14 @@
+{
+  "name": "DualshockListener",
+  "version": "1.0.0",
+  "description": "Aplicação para captura de eventos para os joysticks do PS3 (Dualshock 3) e PS4 (Dualshock 4)",
+  "main": "dualshock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johnny Lutz",
+  "license": "ISC",
+  "dependencies": {
+    "dualshock-controller": "^1.1.1"
+  }
+}
